@@ -1,32 +1,21 @@
-# OpenCV_Basics
-This project includes simple image processing tasks using Python, OpenCV, and NumPy. It’s great if you’re just starting out and want to learn how to work with images using code.
+# Image Preprocessing with OpenCV (Basics)
+This repo is just a simple collection of basic image preprocessing tasks I tried out using Python, OpenCV, and NumPy. I did this to practice and show that I’m familiar with common image processing techniques used in computer vision.
 
-🔧 What’s Included?
-Here are some of the basic tasks I’ve done:
+# What I’ve Done
+Here are some tasks I’ve implemented:
+- Convert image to grayscale
+- Resize and scale images
+- Blur images (Gaussian, median, etc.)
+- Apply thresholding (simple and adaptive)
+- Detect edges (Canny)
+- Do morphological operations (erosion, dilation)
+- Convert color spaces (like BGR to HSV)
+- Rotate, flip, and crop images
+- Find and draw contours
 
-Convert images to grayscale
+Each task is done in a separate Python script.
 
-Resize images
-
-Blur and smooth images
-
-Apply different types of thresholding
-
-Detect edges using Canny
-
-Do erosion and dilation (morphology)
-
-Convert between color formats (like BGR to HSV)
-
-Rotate, crop, and flip images
-
-Find and draw contours
-
-These are helpful for learning computer vision and image analysis.
-
-🛠️ Tools Used
-Python 3
-
-OpenCV (cv2)
-
-NumPy
+# Tools Used
+- Python
+- OpenCV (cv2)
+- NumPy
